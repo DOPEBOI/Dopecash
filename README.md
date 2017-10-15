@@ -1,0 +1,2 @@
+# Dopecash
+Coin for streamers
